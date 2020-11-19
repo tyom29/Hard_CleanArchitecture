@@ -1,0 +1,13 @@
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Mapper.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Mapper.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Domain.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Entities.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Domain.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Domain.dll.config
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\Entities.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\obj\Debug\Mapper.csprojAssemblyReference.cache
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\obj\Debug\Mapper.csproj.CopyComplete
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\obj\Debug\Mapper.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\obj\Debug\Mapper.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\ViewModels.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Mapper\bin\Debug\ViewModels.pdb

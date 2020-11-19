@@ -1,0 +1,5 @@
+C:\Users\Artyom\Desktop\CleanArchitecture\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\ViewModels\obj\Debug\ViewModels.csprojAssemblyReference.cache
+C:\Users\Artyom\Desktop\CleanArchitecture\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\ViewModels\obj\Debug\ViewModels.pdb

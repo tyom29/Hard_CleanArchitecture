@@ -1,0 +1,5 @@
+C:\Users\Artyom\Desktop\CleanArchitecture\Entities\bin\Debug\Entities.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Entities\bin\Debug\Entities.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Artyom\Desktop\CleanArchitecture\Entities\obj\Debug\Entities.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Entities\obj\Debug\Entities.pdb

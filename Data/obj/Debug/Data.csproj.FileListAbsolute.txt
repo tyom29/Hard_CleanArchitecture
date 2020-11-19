@@ -1,0 +1,8 @@
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\bin\Debug\Data.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\bin\Debug\Data.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\bin\Debug\Entities.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\bin\Debug\Entities.pdb
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\obj\Debug\Data.dll
+C:\Users\Artyom\Desktop\CleanArchitecture\Data\obj\Debug\Data.pdb
